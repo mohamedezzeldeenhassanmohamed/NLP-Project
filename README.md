@@ -1,5 +1,5 @@
 # NLP-Project
-Very large compound NLP GUI project, First used many ML algorithmes (SVM,Logistic Regression...etc) for nlp tasks like "News Classification",seconedly used specialized NLP tools for task like "Text Summerization",Thirdly used Deep Learning for NLP task like "Machine Translation",fourthly web scraping and pre-trained models for task "Code Generation".Data sets is not provided above ,The whole project files in link here 
+Very large compound NLP GUI project, First used many ML algorithmes (SVM,Logistic Regression...etc) for nlp tasks like "News Classification",seconedly used specialized NLP tools for task like "Text Summerization",Thirdly used Deep Learning for NLP task like "Machine Translation",fourthly web scraping and pre-trained models for task "Code Generation".Data sets is not provided above ,The whole project files in link here https://drive.google.com/drive/folders/1Q8w0ZFtBzkc5CC4k5C4qeBs1P5YBOfJB?usp=sharing
 # Screens-of-app
 1. "News Classification".
 
